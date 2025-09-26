@@ -26,8 +26,8 @@ Built with the **Flutter framework**, it combines the functionality of a streami
 ---
 
 ## 🌐 Links
-- 🔗 [Website / Landing Page](https://showcaze.app)  
-- 📱 Beta testing in progress — [sign up](www.showcaze.app)  
+- 🔗 [Website / Landing Page](https://info.showcaze.app)  
+- 📱 Beta testing in progress — [sign up](https://showcaze.app)  
 
 ---
 
