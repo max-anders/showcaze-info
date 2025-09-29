@@ -35,8 +35,6 @@ Built with Flutter, it combines the best of streaming and social networks into a
 
 ---
 
-## 📸 Screenshots / Demo
-
 ## 📸 Screenshots
 
 | Player | Feed | Credits | Profile |
