@@ -37,6 +37,11 @@ Built with Flutter, it combines the best of streaming and social networks into a
 
 ## 📸 Screenshots / Demo
 
+![Main view](screenshot1.png)
+![Main view](screenshot2.png)
+![Main view](screenshot3.png)
+![Main view](screenshot3.png)
+
 ---
 
 ## 🌐 Links
