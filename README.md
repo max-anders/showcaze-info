@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/showcaze-logo.jpg" alt="Showcaze Logo" width="200"/>
+  <img src="assets/showcaze-logo.jpg" alt="Showcaze Logo" width="150"/>
 </p>
 
 # Showcaze 🎵📱
