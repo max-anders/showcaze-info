@@ -28,7 +28,17 @@ Built with Flutter, it combines the best of streaming and social networks into a
 **💰 Monetization**  
 - Showcase songs using credits  
 - Stripe/RevenueCat subscriptions  
-- Artists withdraw credits as revenue  
+- Artists withdraw credits as revenue
+
+---
+
+## 📱 Deployment & Platforms
+
+Showcaze is built with **Flutter**, making it fully cross-platform.  
+- ✅ Currently deployed on the **web** (early access)  
+- 📱 Designed for **iOS** and **Android** deployment as development progresses  
+
+---
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)  
@@ -62,7 +72,6 @@ The project explores new ways to combine streaming, community, and fairer econom
 - Beta version in development  
 - Active feature expansion and early user testing  
 - Seeking collaborators and feedback to scale the platform 
-
 
 ---
 
