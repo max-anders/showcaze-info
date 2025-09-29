@@ -17,7 +17,7 @@ Built with the **Flutter framework**, it combines the functionality of a streami
 - **Frontend:** Flutter (Dart)  
 - **Backend & Auth:** Firebase  
 - **Payments:** Stripe + RevenueCat  
-- **Other:** Cloud Firestore, REST APIs  
+- **Other:** Cloud Firestore, REST APIs, Supabase
 
 ---
 
@@ -32,8 +32,11 @@ Built with the **Flutter framework**, it combines the functionality of a streami
 ---
 
 ## 📌 About the Project
-I started developing Showcaze as a personal project to explore the intersection of **music and technology**.  
-The goal is to create a scalable platform where independent artists can share their work and connect directly with fans.  
+I started developing **Showcaze** as a personal project at the intersection of music and technology.  
+It’s a social music streaming platform where independent artists can share tracks, and users can “showcase” them (similar to a retweet), which boosts visibility and supports artists financially.  
+
+The project explores new ways to combine streaming, community, and fairer economic models for musicians, while leveraging Flutter, Firebase, and Stripe to build a scalable mobile platform.
+
 
 ---
 
