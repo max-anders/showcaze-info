@@ -45,7 +45,8 @@ Showcaze is built with **Flutter**, making it fully cross-platform.
 - **Auth:** Firebase & Supabase
 - **Backend:** Firebase, Google Cloud Functions (Typescript)
 - **Payments:** Stripe + RevenueCat  
-- **Other:** Firebase Tools (Firestore, Hosting,..) REST APIs, Supabase, Getstream
+- **Other:** Firebase Tools (Firestore, Hosting,..), REST APIs, Supabase, Getstream
+- **Media:** Just Audio (high-quality playback)  
 
 ---
 
