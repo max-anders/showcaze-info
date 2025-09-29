@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/showcaze-logo.png" alt="Showcaze Logo" width="200"/>
+</p>
+
 # Showcaze 🎵📱
 
 **Showcaze** is a social music streaming platform that empowers artists and fans through sharing, showcasing, and discovery. 
