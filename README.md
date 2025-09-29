@@ -1,16 +1,30 @@
 # Showcaze 🎵📱
 
-**Showcaze** is a social music streaming platform designed to connect artists and listeners in one place.  
-Built with the **Flutter framework**, it combines the functionality of a streaming service with interactive social features.  
+**Showcaze** is a social music streaming platform that empowers artists and fans through sharing, showcasing, and discovery. 
+Built with Flutter, it combines the best of streaming and social networks into a single mobile experience.  
 
 ---
 
 ## 🚀 Key Features
-- 🎶 **High-quality remote audio playback** with [Just Audio](https://pub.dev/packages/just_audio)  
-- 🔐 **Secure authentication** via Google Auth & Firebase  
-- 💳 **Subscription management** with RevenueCat & Stripe  
-- 👥 Social features: artist profiles, sharing, and community engagement  
+- **Three Feeds**  
+  - *Showcase Feed*: discover music shared by friends and curators  
+  - *New Releases*: follow new tracks from your favorite artists  
+  - *Discovery Feed*: see live updates of music uploaded to the platform  
 
+- **Showcasing System**  
+  - Users can “showcase” songs (like retweets) to boost visibility  
+  - Profiles act as portfolios with pinned favorites and playlists  
+  - Artists distribute music independently via their pages  
+
+- **Engagement Tools**  
+  - Real-time comment panel (*live mode*, like Twitch chat)  
+  - Popular comments highlighted by likes  
+  - Artist pages include catalogs, teasers, works-in-progress  
+
+- **Monetization**  
+  - Fans showcase songs with credits  
+  - Credits can be purchased via subscription (Stripe integration)  
+  - Artists withdraw credits as revenue → fairer fan-powered royalties  
 ---
 
 ## 🛠️ Tech Stack
@@ -36,6 +50,11 @@ I started developing **Showcaze** as a personal project at the intersection of m
 It’s a social music streaming platform where independent artists can share tracks, and users can “showcase” them (similar to a retweet), which boosts visibility and supports artists financially.  
 
 The project explores new ways to combine streaming, community, and fairer economic models for musicians, while leveraging Flutter, Firebase, and Stripe to build a scalable mobile platform.
+
+## 📌 Status
+- Beta version in development  
+- Active feature expansion and early user testing  
+- Seeking collaborators and feedback to scale the platform 
 
 
 ---
