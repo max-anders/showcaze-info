@@ -5,27 +5,26 @@ Built with Flutter, it combines the best of streaming and social networks into a
 
 ---
 
-## 🚀 Key Features
-- **Three Feeds**  
-  - *Showcase Feed*: discover music shared by friends and curators  
-  - *New Releases*: follow new tracks from your favorite artists  
-  - *Discovery Feed*: see live updates of music uploaded to the platform  
+## 🚀 Key Features  
+**🎵 Three Feeds**  
+- *Showcase*: music shared by friends & curators  
+- *New Releases*: latest tracks from followed artists  
+- *Discovery*: live feed of all new uploads  
 
-- **Showcasing System**  
-  - Users can “showcase” songs (like retweets) to boost visibility  
-  - Profiles act as portfolios with pinned favorites and playlists  
-  - Artists distribute music independently via their pages  
+**⭐ Showcasing System**  
+- Share songs like “retweets”  
+- Build personal portfolios & playlists  
+- Artist pages with full catalogs  
 
-- **Engagement Tools**  
-  - Real-time comment panel (*live mode*, like Twitch chat)  
-  - Popular comments highlighted by likes  
-  - Artist pages include catalogs, teasers, works-in-progress  
+**💬 Engagement**  
+- Real-time comments (*live mode*)  
+- Highlighted popular discussions  
+- Share teasers & works-in-progress  
 
-- **Monetization**  
-  - Fans showcase songs with credits  
-  - Credits can be purchased via subscription (Stripe integration)  
-  - Artists withdraw credits as revenue → fairer fan-powered royalties  
----
+**💰 Monetization**  
+- Showcase songs using credits  
+- Stripe/RevenueCat subscriptions  
+- Artists withdraw credits as revenue  
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)  
