@@ -35,8 +35,8 @@ Built with Flutter, it combines the best of streaming and social networks into a
 ## 📱 Deployment & Platforms
 
 Showcaze is built with **Flutter**, making it fully cross-platform.  
-- ✅ Currently deployed on the **web** (early access)  
-- 📱 Designed for **iOS** and **Android** deployment as development progresses  
+- ✅ Web version is publicly available (early access)  
+- 📱 iOS and Android builds are ready, awaiting more testers before public release  
 
 ---
 
