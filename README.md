@@ -41,7 +41,7 @@ Built with Flutter, it combines the best of streaming and social networks into a
 
 | Login | Feed | Player | Profile |
 |-------|------|--------|---------|
-| ![](assets/screenshot1.jpeg) | ![](assets/screenshot2.jpeg) | ![](assets/screenshot3.jpeg) | ![](assets/screenshot3.jpeg) |
+| ![](assets/screenshot1.jpeg) | ![](assets/screenshot2.jpeg) | ![](assets/screenshot3.jpeg) | ![](assets/screenshot4.jpeg) |
 
 ---
 
